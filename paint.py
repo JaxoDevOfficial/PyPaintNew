@@ -1,3 +1,4 @@
+# hewwo uwu
 from tkinter import *
 from tkinter import messagebox as mbox
 import turtle, time, os
